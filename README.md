@@ -25,7 +25,17 @@ Pequeno sistema (API REST) de usuários e departamentos, com os seguintes casos 
 - Configurar o banco de dados H2
 - Criar os endpoints da API REST
  
+## Ferramenta Utilizada
+
+<a href="https://www.java.com" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> 
+
+
+## Acesso ao projeto
+
+Você pode [acessar o código fonte do projeto](https://github.com/MedeirosGiana/java-web-spring-boot) ou baixá-lo.
+
 ### Desafios
 - Expandir o projeto
 - implementar novas classes e métodos
 - Criar novos endpoints 
+
