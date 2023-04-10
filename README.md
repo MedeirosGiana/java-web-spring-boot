@@ -32,7 +32,7 @@ Pequeno sistema (API REST) de usuários e departamentos, com os seguintes casos 
 
 ## Acesso ao projeto
 
-Você pode [acessar o código fonte do projeto](https://github.com/MedeirosGiana/java-web-spring-boot) ou baixá-lo.
+Você pode [acessar o código fonte do projeto](https://github.com/MedeirosGiana/java-web-spring-boot/tree/main/api) ou baixá-lo.
 
 ### Desafios
 - Expandir o projeto
