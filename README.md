@@ -3,7 +3,7 @@ Pequeno sistema (API REST) de usuários e departamentos
 
 
 ### Objetivo
-- Colocar em prática fudamentos de programação orientada a objetos
+- Colocar em prática fundamentos de programação orientada a objetos
 - Criar um pequeno sistema com ferramentas e práticas de mercado
 - Dar mais um passo em direção à preparação para o mercado
 
